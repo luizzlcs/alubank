@@ -21,7 +21,7 @@
 
 > Organização de código;
 
-> Projeto baseado em [visual do Figma](https://www.figma.com/file/qmOZR81uY7gb8I0wMLUFCu/Alubank?node-id=0%3A1);
+> Projeto baseado em [visual criado no Figma](https://www.figma.com/file/qmOZR81uY7gb8I0wMLUFCu/Alubank?node-id=0%3A1);
 
 
 
